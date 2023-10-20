@@ -1,0 +1,5 @@
+car1 Mark: BMW  	 Year of issue: 2014	 Numbers: S228GH	 Region: 23
+car2 Mark: Mersedec	 Year of issue: 2011	 Numbers: F445TR	 Region: 15
+car3 Mark: Lada  	 Year of issue: 2007	 Numbers: O565KI	 Region: 34
+car4 Mark: Dodge	 Year of issue: 2022	 Numbers: N785MO	 Region: 54
+car5 Mark: Nissan	 Year of issue: 2000	 Numbers: G224BV	 Region: 15
