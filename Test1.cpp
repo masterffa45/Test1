@@ -1,10 +1,11 @@
-﻿#include "Avtopark.h" //подключаем наш класс
+#include "Avtopark.h" //connecting our class
 #include <iostream>
 
 
 
 int main()
 {
-	Avtopark c1;
+
 
 }
+
